@@ -2,6 +2,6 @@
 
 
 Zero Hunger Project
-/Stacey Amery Dela Serna in DH110 F22
+n/Stacey Amery Dela Serna in DH110 F22
 
 This project is about...
