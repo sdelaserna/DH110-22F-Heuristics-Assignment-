@@ -7,8 +7,6 @@
 ### Project Proposal
 Zero Hunger is an important goal to me because in high school I led a class discussion on food deserts, food waste, and how to lessen food waste in our personal lives. My parents are also immigrants from the Philippines and stressed the importance of having good food to eat everyday. I would like everyone to have access to nutritional, whole food at a reasonable price because I recognize the impact it has on our minds and body particularly during the developmental stage at life.
 
-FoodPantries.Org is a website created by a single person that just wanted to create a directory of Food Banks, Soup Kitchens, and non-profit organizations committed to fighting hunger. The information is collected manually and accurate to the best of their knowledge. In comparison to College of the Desert, the scale is on a national level which can narrow down on the city level. With better design, this could be more appealing to use and therefore the resources would be shared more too.  
-
 ### Severity Ratings in Heuristic Evaluation 
 
 1 = Cosmetic problem only: need not be fixed unless extra time is available on project
@@ -22,7 +20,7 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 
 https://www.collegeofthedesert.edu/
 
-College of the Desert is my community college website that I went to during my first two years of college. I wanted to zone in on the UN’s Zero Hunger Project to my local area to make it more accessible and more compassion to work with since I grew up in that area for more than 10 years. They have a listing about food pantries, but it’s very bare and hard to get to. Whenever I used that website, I thought it always needed help with UX/UI. If the UX/UI is revised, then it will be easier to find listings of the food pantries. 
+College of the Desert is my community college website that I went to during my first two years of college. I wanted to zone in on the UN’s Zero Hunger Project to my local area to make it more accessible and more compassion to work with since I grew up in that area for more than 10 years. They have a listing about food pantries, but it’s very bare and hard to get to. Whenever I used that website, I thought it always needed help with UX/UI. If the UX/UI is revised, then it will be easier to find listings of the food pantries. Also the students who go to this community college and need the food resource the most might not even be aware of it, nor may they have the means to check out all the locations provided on that list. 
 
 ![screen shot of site home page](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/cod%20homepage.png)
 
@@ -111,27 +109,27 @@ College of the Desert is my community college website that I went to during my f
 *Recommendation: No reccomendations. Just redundant that there's two search bars, but I realize both is necessary as the Roadrunner AI prompts the user right away which is better for college students who are not so used navigating technology and websites.*
 
 
-### Second site: LACompost
+### Second site: FoodPantries.Org
 
 https://www.lacompost.org/start-composting 
 
-The next site I’ve analyzed is more aligned in terms of what my intended project will do (locating spaces near you to compost food waste). The website is successful in conveying the necessary information with little to no issues. However, the user could be given more freedom and the design could be adjusted to better reflect their intentions and ameliorate the user's experience.
+FoodPantries.Org is a website created by a single person that just wanted to create a directory of Food Banks, Soup Kitchens, and non-profit organizations committed to fighting hunger. The information is collected manually and accurate to the best of their knowledge. In comparison to College of the Desert, the scale is on a national level which can narrow down on the city level. With better design, this could be more appealing to use and therefore the resources would be shared more too.  
 
-![screen shot of home page]
+![screen shot of home page](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/Food%20Pantries%20Org%20Homepage.png)
 
 
 #### 1: Visibility of System Status
 
-When a user selects “View all available locations” they are brought to other educational pamphlets before the map of locations. This makes for a disconnect between what the user wants to see and what they are being shown. **(2)**
+**(1)** Location is on the right hand side. It’s easy to find where things are since the information is straight foward. Not too many embeddings. The about blurb about food pantries/org is hidden through the plus corner of the site and should be on the fore front of the page – government affiliated or not. However, for everything else, when the mouse hovers over anything, there is an immediate feedback either through the font color changing with an underline underneath it, or the icon flipping like a switch, or the mouse cursor turning into a typing or finger pointing icon rather than the usual triangle pointer. 
 
-![screen shot of find function of site]
+![screen shot of find function of site](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/Food%20Pantries%20Org%20Homepage.png) 
 
-*Recommendation: Lead users directly to an interactive map of locations and provide other information secondarily (perhaps as a legend in the map).*
+*Recommendation: Rather than having the blurb about the site on the top right corner hidden, it should just be on the bottom of the page when you scroll down. It's hard to see the little plus corner at the top.*
 
 
 #### 2: Match between System and the Real World
 
-The site uses easily comprehensible visual elements as well as vocabulary to convey their intended message. **(0)**
+The three icons show a highlight when the mouse hovers over the text – suggesting that the user can click on it and navigate to more information about that column, but it doesn’t allow that and stays on the homepage. Also, Language is only in English and there is no translate button at the top. For example, people who are in Coachella Valley are part of the Latinx community and if they need these resources, a friend or a relative might have to translate and navigate the website for them
 
 *No improvements.*
 
