@@ -20,7 +20,9 @@ Zero Hunger is an important goal to me because in high school I led a class disc
 
 https://www.collegeofthedesert.edu/
 
-College of the Desert is my community college website that I went to during my first two years of college. I wanted to zone in on the UN’s Zero Hunger Project to my local area to make it more accessible and more compassion to work with since I grew up in that area for more than 10 years. They have a listing about food pantries, but it’s very bare and hard to get to. Whenever I used that website, I thought it always needed help with UX/UI. If the UX/UI is revised, then it will be easier to find listings of the food pantries. Also the students who go to this community college and need the food resource the most might not even be aware of it, nor may they have the means to check out all the locations provided on that list. 
+College of the Desert is my community college website that I went to during my first two years of college. I wanted to zone in on the UN’s Zero Hunger Project to my local area to make it more accessible and more compassionate to work with since I grew up in that area for more than 10 years. I also love my community college experience! 
+
+They have a listing about food pantries, but it’s very bare and hard to get to. Whenever I used that website, I thought it always needed help with UX/UI. If the UX/UI is revised, then it will be easier to find listings of the food pantries. Also the students who go to this community college and need the food resource the most might not even be aware of it, nor may they have the means to check out all the locations provided on that list. 
 
 ![screen shot of site home page](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/cod%20homepage.png)
 
@@ -108,6 +110,9 @@ College of the Desert is my community college website that I went to during my f
 
 *Recommendation: No reccomendations. Just redundant that there's two search bars, but I realize both is necessary as the Roadrunner AI prompts the user right away which is better for college students who are not so used navigating technology and websites.*
 
+#### Overall Evaluation of College of the Desert:
+**(2)** College of the Desert needs to have more emphasis on the student resources and better organizational skills for the whole website. The search bar alleviates the strain on trying to remember the location of links, however, the user shouldn't think about having to remember that much in the first place. Even when navigating through the other pages, it's too much scrolling. A submenu that follows the user as it scrolls down would help or anchors would help too. It would also be really helpful if they provided links to the instagrams of the food banks available. The heuristic that needs the most help is: #8, #2, and #1. 
+
 
 ### Second site: FoodPantries.Org
 
@@ -160,6 +165,8 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 
 **3** When misspelling a city or address, the page will prompt with words that says: “We could not find the address you are trying to find food near.’ Please try again by entering the full information below.” and “Warning! The City is blank.” Another search query is prompted right below it even though there is one next to it on the right side. There are a couple issues with this error message. The wording is off since it says find twice in one sentence. The Warning! message is fine. However, the two search queries are redundant and does not help the user anymore. 
 
+![screen shot of warning message](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/redundant%20search%20bar.png)
+
 *Recommendations: Delete one of the search bars. Have an arrow pointing the original search bar again instead.*
 
 
@@ -167,35 +174,35 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 
 **(1)** Similar to the COD website, they list out all the states and counties available so it’s easier to recognize the location without having to worry whether it’s spelled correctly or not. I like that the actionable items on the page are usually highlighted in orange or surrounding an orange text box. 
 
+![screen shot of list of states](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/lists%20of%20states.png)
+
 *Recommendation: Improvements were already mentioned above in the heruistics. *
 
 
 #### 7: Flexibility and Efficiency of Use
 
-2 There is not much flexibility in this website as well. For the search button it should be interchangeable with finding a food bank and inverting the search for food bank to see if there are any overlapping organizations within the states. 
-![screen shot of location map]
+**(2)** There is not much flexibility in this website as well. For the search button it should be interchangeable with finding a food bank and inverting the search for food bank to see if there are any overlapping organizations within the states. 
 
-*Recommendation: Add a search bar to help users navigate the site more quickly.*
+*Recommendation: There should also be a navigation bar for users trying to find out all the types of assistance. As of right now it's just food banks, even though in the blurb it also mentions grocery assistance* 
 
 
 #### 8: Aesthetic and Minimalist Design
 
-PDF documents are uploaded on the site for further information. However, the size shown is too zoomed in and doesn’t allow the user to adjust viewing size unless it is downloaded. Additionally, some PDFs uploaded are blurry. **(2)**
+**(2)** There is a clear color palette consisting of grey, white, and orange. Since the topic is about food, I wish there was more vibrancy and life in the colors since grey, white, and orange gives off a distant feeling and often associated with jail. However, the typesetting varies from the logo to the actual website and it can throw users off. I also think that the locations by state should be above the latest additions instead. The symbol for the second and third column right below the banner should be different because the same one indicates the same task.
 
-![screen shot of blurry PDF document]
 
-*Recommendation: Allow users to view PDF at desired size on the site itself. And improve image quality of documents uploaded.*
+*Recommendation: The comment above has suggestions, but to summarize: more color, more pictures, change the logo, and change the symbol of the columns. Picture of this is listed in the first heuristics. *
 
 
 #### 9: Recognize, Diagnose, and Recover from Errors
 
-N/a. No error messages encountered. **(0)**
+*(1)* When typing an incorrect city on the search query to find food pantries in your local area, it will apologize and ask the user to please try again by entering all of the information OR in a hyperlink it says: Take me to AKJSHDFAK, NC results page in orange. There is another message saying that the address is blank. 
 
-*No improvements.*
-
+*No improvement made. Commented on this page already on Heuristic #5*
 
 #### 10: Help and Documentation
 
-No FAQ section or Help documentation. **(1)**
+**(3)** There is no search bar at the top right corner. This site is purely for finding food pantries near you and it assumes that by putting the search bar at the center in the front page. I wish there were more statistics to show the importance of food pantries and how it makes an impact on the lives of others. Even in the About US, it’s the creator of the website saying I and asking any additional comments or questions. There should also be a Frequently Asked Questions page. 
 
-*Recommendation: Add a “Frequently Asked Questions” section for additional help and information. And possibly a chat box in order to help users in need of additional information.*
+#### Overall Evaluation of the FoodPantries.org:
+**(3)** I think it needs help in terms of user interface. I think this was a website project with one person behind the coding and design. In fact, you can even look at the code that the person wrote by clicking on the wifi symbol at the top right corner of the page. But as I said in the beginning, I think this site could really help a lot more people when it's more appealing to look at and easier to use because then more people could share the link and those people would share--it's a chain reaction. This site needs the most help on Heuristic #8, #4, and #2. There should be links to the social media of the food banks as well if they have any (just as mentioned in the COD overall evaluation). 
