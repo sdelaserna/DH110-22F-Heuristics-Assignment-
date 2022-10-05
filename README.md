@@ -138,16 +138,18 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 
 #### 3: User Control and Freedom
 
-**(2)** There are multiple entries to input the closest food pantries such as address, city (typing it in) or finding it on a list. Honestly, entering in the city could be autofilled to make the design simpler, rather than having two separate options to enter the city. 
+**(2)** There are multiple entries to input the closest food pantries such as address, city (typing it in) or finding it on a list. It's redundant to have the address and the city with the state as well because there is many chances for user to mess up. Honestly, entering in the city could be autofilled to make the design simpler, rather than having two separate options to enter the city. 
 
-![screen shot of site closest food pantries](
+![screen shot of site closest food pantries](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/multiple%20entries%20for%20searching.png) 
 
-*Recommendation: If possible incorporate the Shop portion into the main site opposed to having a separate website that is externally linked.*
+*Recommendation: Autofilling with suggestions of address when the input from the user becomes more precise.*
 
 
 #### 4: Consistency and Standards
 
-“About” section is located first in the menu bar rather than a “Home” section or the page dedicated to the practical intention of the site. **(1)**
+**(2)** The search entries of city and or state should be available on the front page right away rather than just the state. It makes it more redundant for the user to go through all the cities to find the nearest food pantry. It should also be a quick autofill where the drop down menu decreases the more correct input is put on the search query. 
+**(1)** The search bar should be the same color scheme and style to be on this website. 
+
 
 ![screen shot of site Menu bar]
 
