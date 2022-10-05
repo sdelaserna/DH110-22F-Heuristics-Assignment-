@@ -96,18 +96,19 @@ College of the Desert is my community college website that I went to during my f
 #### 9: Recognize, Diagnose, and Recover from Errors
 ##### Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
-**(1)** wWen inserting an incorrect word on the search query for the whole website, it will try to suggest alternative spelling that has results. The error message itself says, “Sorry, no results were found for _________.” The text was in blue on a blank search result page. I feel like it should be highlighted in a light red box and with instructions such as: “Please try again.” 
+**(1)** wWen inserting an incorrect word on the search query for the whole website, it will try to suggest alternative spelling that has results. The error message itself says, “Sorry, no results were found for _________.” The text was in blue on a blank search result page.
 
-![screen shot of search bar error message]
+![screen shot of search bar error message](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/critique%20on%20search%20bar%20again.png) 
 
-*Recommendation: Provide suggestions for misspelled words/related ideas.*
+*Recommendation: It should be highlighted in a light red box and with instructions such as: “Please try again.” .*
 
 
 #### 10: Help and Documentation
+##### It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.
 
-There is no designated “Help” section of the site. If a user is confused on how to navigate certain elements they are not guided. **(1)**
+**(1)** The search button is easily recognizable at the top right corner with a yellow box and magnifying glass. It makes it easy for the user to ask for help. There is also an ai chat at the bottom of the screen which prompts user to ask questions to “roadrunner.” 
 
-*Recommendation: Incorporate a help icon or a FAQs section into the menu bar for users looking to learn more.*
+*Recommendation: No reccomendations. Just redundant that there's two search bars, but I realize both is necessary as the Roadrunner AI prompts the user right away which is better for college students who are not so used navigating technology and websites.*
 
 
 ### Second site: LACompost
