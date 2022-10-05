@@ -26,6 +26,7 @@ College of the Desert is my community college website that I went to during my f
 
 ![screen shot of site home page](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/cod%20homepage.png)
 
+
 #### 1: Visibility of System Status
 
 ##### The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
@@ -34,12 +35,13 @@ College of the Desert is my community college website that I went to during my f
 
 *Recommendation: Make the search bar more prominent at the top right corner* 
 
+
 #### 2: Match between System and the Real World
 ##### The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.
 
 **(2)** Searching through this website is difficult and made in English. There is a translation button, however it's only on the Academic Programs page. Also, it’s Google Translate and not everything is perfect. Most likely college aged and educated, will be using this site, however, it should be more simplified and the access to all languages should be available for every page. 
 
-![screen shot of translate button]
+![screen shot of translate button](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/cod%20academic%20programs.png)
 
 *Recommendation: Have the translation button above the search bar for every page.*
 
