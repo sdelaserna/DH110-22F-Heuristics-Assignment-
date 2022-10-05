@@ -47,29 +47,24 @@ College of the Desert is my community college website that I went to during my f
 
 
 #### 3: User Control and Freedom
+##### Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.
 
-User can fairly easily navigate back towards the main menu when clicking on any element of the site. Some confusion may come from links leading to new sites (such as the local recycling information pages), in this case users can no longer see menu bar and must navigate back to main site. **(2)**
-
-![screen shot of example of an external file]
-
-Example of an external folder linked on the site.
-
-*Recommendation: Clearly indicate when user will be directed to another site and make this disctinct among links.*
-
+**(1)** I think there is heavy reliance on the use of the back page of the browser rather than the actual website. There really is no emergency exit, except for the web mapping at the top of the page. However, using that will take you back to the top of the previous page rather than the previous location on that same page. But for the most part, users are free to click on anything they like even on the pictures of the homepage which allows for lots of flexibility. 
 
 #### 4: Consistency and Standards
+##### Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.
 
-There are links to relevant pages used throughout the site – however, It is not clearly indicated what the link is going to lead to (i.e. external tabs, Google Drives, or other sections of the site. The user may become frustrated by consistently being led to external tabs. **(2)**
+There is consistency in how the website is formatted when looking at the subpages: all the topics or questions are on the right hand side on the blue box titled with a bold white text in a darker blue box. However, the format of the content is not consistent and there’s too many boxes and fonts in my opinion which is why it makes the difficult unseemingly hard to navigate through. 
 
-*Recommendation: Clearly indicate what a link will lead the user to as well as the information they will find there.*  
+*Recommendation: Have a clearer template to work off of. User submenus so it's not too much for the user. *  
 
 
 #### 5: Error Prevention
+##### Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
 
-Error prevention is successful. I didn’t encounter any error messaging. **(0)**
+When looking at the catalog, there is a search tab, but it’s a blank page. If that’s the case, just get rid of it. For the search bar for the whole website, it does not prevent
 
-*No improvements.*
-
+![no error message in the catalog](
 
 #### 6: Recognition Rather than Recall
 
