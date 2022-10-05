@@ -88,14 +88,15 @@ College of the Desert is my community college website that I went to during my f
 
 **(3)**  The website needs a lot of help. It feels very outdated due to the excessive shadowing on the top 3 tabs of the website bar. Also the three tabs on the top have excessive shadow when nowadays it would be used strategically. The homepage is really cluttered visually and I feel like with better design, we could minimize throwing everything on the homepage. Sticking to a color palette is great for starters. I like that the font is consistent throughout the whole website even when I don’t like the font personally myself. 
 
-![screen shot of site home page again] (
+![screen shot of site home page again](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/cluttered%20homepage.png) 
 
-*Recommendation: Include more interactive elements to further cater to a younger audience and make a more effective educational tool (i.e. allowing user to move items into appropriate bins, etc)*
+*Recommendation: Have submenus and incorporate another moving banner. Decipher who is going to be landing on the College of the Desert website the most because as of right now, it seems like it's trying to catch everyone's attention.* 
 
 
 #### 9: Recognize, Diagnose, and Recover from Errors
+##### Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
-Search bar error message is concise and constructive. However through some trials it does seem to not pick up on misspelled terms or inconcise searches. **(1)**
+**(1)** wWen inserting an incorrect word on the search query for the whole website, it will try to suggest alternative spelling that has results. The error message itself says, “Sorry, no results were found for _________.” The text was in blue on a blank search result page. I feel like it should be highlighted in a light red box and with instructions such as: “Please try again.” 
 
 ![screen shot of search bar error message]
 
