@@ -37,11 +37,11 @@ College of the Desert is my community college website that I went to during my f
 #### 2: Match between System and the Real World
 ##### The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.
 
-**(2)** Searching through this website is difficult and made in English. There is a translation button, however it’s Google Translate and not everything is perfect. Most likely college aged and educated, will be using this site, however, it should be more simplified. 
+**(2)** Searching through this website is difficult and made in English. There is a translation button, however it's only on the Academic Programs page. Also, it’s Google Translate and not everything is perfect. Most likely college aged and educated, will be using this site, however, it should be more simplified and the access to all languages should be available for every page. 
 
-![screen shot of English translate button]
+![screen shot of translate button]
 
-*Recommendation: Make a section of the site clearly designated for children users to explore and interact with the material and a section of the site intended for adult users to gain access to said educational materials.*
+*Recommendation: Have the translation button above the search bar for every page.*
 
 
 #### 3: User Control and Freedom
