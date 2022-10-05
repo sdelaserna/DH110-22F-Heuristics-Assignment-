@@ -129,16 +129,18 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 
 #### 2: Match between System and the Real World
 
-The three icons show a highlight when the mouse hovers over the text – suggesting that the user can click on it and navigate to more information about that column, but it doesn’t allow that and stays on the homepage. Also, Language is only in English and there is no translate button at the top. For example, people who are in Coachella Valley are part of the Latinx community and if they need these resources, a friend or a relative might have to translate and navigate the website for them
+**(3)** The three icons show a highlight when the mouse hovers over the text – suggesting that the user can click on it and navigate to more information about that column, but it doesn’t allow that and stays on the homepage. Also, Language is only in English and there is no translate button at the top. For example, people who are in Coachella Valley are part of the Latinx community and if they need these resources, a friend or a relative might have to translate and navigate the website for them
 
-*No improvements.*
+![screen shot with a closer examination of homepage elements](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/misleading%20highlight.png)
+
+*Recommendation: Have the columns be clickable where it can talk more about the process or data visualization of all the food pantries in the U.S. Something more interactive than just a column. *
 
 
 #### 3: User Control and Freedom
 
-When users click on the Shop page of the site they are led to an external site on a separate tab. They need to change tabs again to get back to the original site. **(1)**
+**(2)** There are multiple entries to input the closest food pantries such as address, city (typing it in) or finding it on a list. Honestly, entering in the city could be autofilled to make the design simpler, rather than having two separate options to enter the city. 
 
-![screen shot of site reroute to Shop page]
+![screen shot of site closest food pantries](
 
 *Recommendation: If possible incorporate the Shop portion into the main site opposed to having a separate website that is externally linked.*
 
