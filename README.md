@@ -33,7 +33,7 @@ They have a listing about food pantries, but it’s very bare and hard to get to
 
 **(3)** Finding the food distribution page is really difficult n this website and is very embedded into the site. From previous experience, finding anything on your own on this website is difficult. 
 
-*Recommendation: Make the search bar more prominent at the top right corner* 
+*Recommendation: Make the search bar more prominent at the top right corner.* 
 
 
 #### 2: Match between System and the Real World
@@ -56,12 +56,12 @@ They have a listing about food pantries, but it’s very bare and hard to get to
 
 **(2)** There is consistency in how the website is formatted when looking at the subpages: all the topics or questions are on the right hand side on the blue box titled with a bold white text in a darker blue box. However, the format of the content is not consistent and there’s too many boxes and fonts in my opinion which is why it makes the difficult unseemingly hard to navigate through. 
 
-*Recommendation: Have a clearer template to work off of. User submenus so it's not too much for the user. *  
+*Recommendation: Have a clearer template to work off of. User submenus so it's not too much for the user.*  
 
 #### 5: Error Prevention
 ##### Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
 
-**(2)** When looking at the catalog, there is a search tab, but it’s a blank page. If that’s the case, just get rid of it. For the search bar for the whole website, it does not prevent
+**(2)** When looking at the catalog, there is a search tab, but it’s a blank page. If that’s the case, just get rid of it. For the search bar for the whole website, it does not prevent typos or suggest alternative words related to the typo search. 
 
 ![no error message in the catalog](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/bad%20search%20results.png) 
 
@@ -100,7 +100,7 @@ They have a listing about food pantries, but it’s very bare and hard to get to
 
 ![screen shot of search bar error message](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/critique%20on%20search%20bar%20again.png) 
 
-*Recommendation: It should be highlighted in a light red box and with instructions such as: “Please try again.” .*
+*Recommendation: It should be highlighted in a light red box and with instructions such as: “Please try again.”*
 
 
 #### 10: Help and Documentation
@@ -138,7 +138,7 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 
 ![screen shot with a closer examination of homepage elements](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/misleading%20highlight.png)
 
-*Recommendation: Have the columns be clickable where it can talk more about the process or data visualization of all the food pantries in the U.S. Something more interactive than just a column. *
+*Recommendation: Have the columns be clickable where it can talk more about the process or data visualization of all the food pantries in the U.S. Something more interactive than just a column.*
 
 
 #### 3: User Control and Freedom
@@ -176,7 +176,7 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 
 ![screen shot of list of states](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/lists%20of%20states.png)
 
-*Recommendation: Improvements were already mentioned above in the heruistics. *
+*Recommendation: Improvements were already mentioned above in the heruistics.*
 
 
 #### 7: Flexibility and Efficiency of Use
@@ -191,7 +191,7 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 **(2)** There is a clear color palette consisting of grey, white, and orange. Since the topic is about food, I wish there was more vibrancy and life in the colors since grey, white, and orange gives off a distant feeling and often associated with jail. However, the typesetting varies from the logo to the actual website and it can throw users off. I also think that the locations by state should be above the latest additions instead. The symbol for the second and third column right below the banner should be different because the same one indicates the same task.
 
 
-*Recommendation: The comment above has suggestions, but to summarize: more color, more pictures, change the logo, and change the symbol of the columns. Picture of this is listed in the first heuristics. *
+*Recommendation: The comment above has suggestions, but to summarize: more color, more pictures, change the logo, and change the symbol of the columns. Picture of this is listed in the first heuristics.*
 
 
 #### 9: Recognize, Diagnose, and Recover from Errors
@@ -208,4 +208,5 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 **(3)** I think it needs help in terms of user interface. I think this was a website project with one person behind the coding and design. In fact, you can even look at the code that the person wrote by clicking on the wifi symbol at the top right corner of the page. But as I said in the beginning, I think this site could really help a lot more people when it's more appealing to look at and easier to use because then more people could share the link and those people would share--it's a chain reaction. This site needs the most help on Heuristic #8, #4, and #2. There should be links to the social media of the food banks as well if they have any (just as mentioned in the COD overall evaluation). 
 
 GITHUB ReadME file based off of: https://github.com/yinyinwen/DH150-chuyin/blob/master/Assignments/assignment1.md
+
 Subheadings of the Heuristics Page came from: https://www.nngroup.com/articles/ten-usability-heuristics/
