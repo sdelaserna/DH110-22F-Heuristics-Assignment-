@@ -78,16 +78,17 @@ College of the Desert is my community college website that I went to during my f
 
 **(3)** When looking at the table for the food bank, there is no personalization/customization. If they want the exact information, they’re gonna have to copy and paste the excel sheet into their own program. The only accelerator to this page is using the control + F button to find your nearest food pantry in the city of your choice.
 
-![screen shot of cod food pantry list]
+![screen shot of cod food pantry list](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/food%20pantry%20pdf.png) 
 
-*Recommendation: Incorporate an internal search bar for either city name or zip code in order to streamline the process of finding local guidelines.*
+*Recommendation: They could add filters if the information was on the webpage rather than the PDF.*
 
 
 #### 8: Aesthetic and Minimalist Design
+##### Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.
 
-The design of the site seems to be appropriate for their target audience, as the more colorful interface seems to be geared towards keeping children engaged in the content of the site. **(2)**
+**(3)**  The website needs a lot of help. It feels very outdated due to the excessive shadowing on the top 3 tabs of the website bar. Also the three tabs on the top have excessive shadow when nowadays it would be used strategically. The homepage is really cluttered visually and I feel like with better design, we could minimize throwing everything on the homepage. Sticking to a color palette is great for starters. I like that the font is consistent throughout the whole website even when I don’t like the font personally myself. 
 
-![screen shot of site home page: child friendly]
+![screen shot of site home page again] (
 
 *Recommendation: Include more interactive elements to further cater to a younger audience and make a more effective educational tool (i.e. allowing user to move items into appropriate bins, etc)*
 
