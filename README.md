@@ -24,7 +24,7 @@ https://www.collegeofthedesert.edu/
 
 College of the Desert is my community college website that I went to during my first two years of college. I wanted to zone in on the UN’s Zero Hunger Project to my local area to make it more accessible and more compassion to work with since I grew up in that area for more than 10 years. They have a listing about food pantries, but it’s very bare and hard to get to. Whenever I used that website, I thought it always needed help with UX/UI. If the UX/UI is revised, then it will be easier to find listings of the food pantries. 
 
-![screen shot of site home page](cod homepage.png) 
+![screen shot of site home page](./cod homepage.png) 
 
 #### 1: Visibility of System Status
 
