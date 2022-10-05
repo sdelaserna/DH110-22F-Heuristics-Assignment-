@@ -30,16 +30,16 @@ College of the Desert is my community college website that I went to during my f
 
 ##### The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
 
-Finding the food distribution page is really difficult n this website and is very embedded into the site. From previous experience, finding anything on your own on this website is difficult. **(3)**
+**(3)** Finding the food distribution page is really difficult n this website and is very embedded into the site. From previous experience, finding anything on your own on this website is difficult. 
 
 *Recommendation: Make the search bar more prominent at the top right corner* 
 
-
 #### 2: Match between System and the Real World
+##### The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.
 
-Some of the terms employed may be out of the users’ vocabulary, especially for young users terms such as “Digital Display Ads” and “Social Media and Print Assets” may not be in their wheelhouse. **(3)**
+**(2)** Searching through this website is difficult and made in English. There is a translation button, however it’s Google Translate and not everything is perfect. Most likely college aged and educated, will be using this site, however, it should be more simplified. 
 
-![screen shot of advancedlanguage]
+![screen shot of English translate button]
 
 *Recommendation: Make a section of the site clearly designated for children users to explore and interact with the material and a section of the site intended for adult users to gain access to said educational materials.*
 
