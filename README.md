@@ -30,7 +30,7 @@ College of the Desert is my community college website that I went to during my f
 
 ##### The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
 
-Finding the food distribution page is really difficult n this website and is very embedded into the site. From previous experience, finding anything on your own on this website is difficult. **(1)**
+Finding the food distribution page is really difficult n this website and is very embedded into the site. From previous experience, finding anything on your own on this website is difficult. **(3)**
 
 *Recommendation: Make the search bar more prominent at the top right corner* 
 
