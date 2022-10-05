@@ -54,32 +54,31 @@ College of the Desert is my community college website that I went to during my f
 #### 4: Consistency and Standards
 ##### Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.
 
-There is consistency in how the website is formatted when looking at the subpages: all the topics or questions are on the right hand side on the blue box titled with a bold white text in a darker blue box. However, the format of the content is not consistent and there’s too many boxes and fonts in my opinion which is why it makes the difficult unseemingly hard to navigate through. 
+**(2)** There is consistency in how the website is formatted when looking at the subpages: all the topics or questions are on the right hand side on the blue box titled with a bold white text in a darker blue box. However, the format of the content is not consistent and there’s too many boxes and fonts in my opinion which is why it makes the difficult unseemingly hard to navigate through. 
 
 *Recommendation: Have a clearer template to work off of. User submenus so it's not too much for the user. *  
-
 
 #### 5: Error Prevention
 ##### Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
 
-When looking at the catalog, there is a search tab, but it’s a blank page. If that’s the case, just get rid of it. For the search bar for the whole website, it does not prevent
+**(2)** When looking at the catalog, there is a search tab, but it’s a blank page. If that’s the case, just get rid of it. For the search bar for the whole website, it does not prevent
 
-![no error message in the catalog](
+![no error message in the catalog](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/bad%20search%20results.png) 
 
 #### 6: Recognition Rather than Recall
+##### Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed.
 
-In the “Local Recycling Information” section of the site the description reads “To find out what’s recycled in your local curbside program, look up your city, or county (if in an unincorporated area) below”. However, the links lead directly to external city sites. Each site has their own organization and the user may find it difficult to remember that they are searching for “what’s recycled” **(2)**
+**(3)** The link to the food banks in the Coachella area is on a PDF. All the cities and food banks available are listed right there. So people can easily recognize which city they belong to. However, there seems to be no logic in how the food banks are listed. 
 
-![screen shot of Find your Local Recylers page]
-
-*Recommendation: Change the text to “Learn more about recycling in your community”, to reduce users’ need to go back to the launch page to remember what they are searching for on this separately linked site. Or incorporate the information from said communities into the site itself (note: this, however, would need to be updated regularly)*
+*Recommendation: Instead, it should be in alphabetical order and there should be a link to their website or instagram if they have any. Also rather than jumping to a new tab on a PDF, they should have the resource available right on the page or just have both options available. This site is definitely not accessible to those who are on their phone.*
 
 
 #### 7: Flexibility and Efficiency of Use
+##### Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
 
-In the “Local Recycling Information” section of the site the cities are listed in section by first letter in alphabetical order, making it a fairly long process to find your city. **(2)**
+**(3)** When looking at the table for the food bank, there is no personalization/customization. If they want the exact information, they’re gonna have to copy and paste the excel sheet into their own program. The only accelerator to this page is using the control + F button to find your nearest food pantry in the city of your choice.
 
-![screen shot of cities search function]
+![screen shot of cod food pantry list]
 
 *Recommendation: Incorporate an internal search bar for either city name or zip code in order to streamline the process of finding local guidelines.*
 
