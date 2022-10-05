@@ -150,30 +150,29 @@ FoodPantries.Org is a website created by a single person that just wanted to cre
 **(2)** The search entries of city and or state should be available on the front page right away rather than just the state. It makes it more redundant for the user to go through all the cities to find the nearest food pantry. It should also be a quick autofill where the drop down menu decreases the more correct input is put on the search query. 
 **(1)** The search bar should be the same color scheme and style to be on this website. 
 
+![screen shot of home search bar](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/search%20bar%201.png)
+![screen shot of site second search bar](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-/blob/main/search%20bar%202.png)
 
-![screen shot of site Menu bar]
-
-*Recommendation: Move about section closer to the end of menu bar.*
+*Recommendation: Change the search bar to look the same. If possible, also have the search bar be on the same location even if it's a different page.*
 
 
 #### 5: Error Prevention
 
-No errors encountered. **(0)**
+**3** When misspelling a city or address, the page will prompt with words that says: “We could not find the address you are trying to find food near.’ Please try again by entering the full information below.” and “Warning! The City is blank.” Another search query is prompted right below it even though there is one next to it on the right side. There are a couple issues with this error message. The wording is off since it says find twice in one sentence. The Warning! message is fine. However, the two search queries are redundant and does not help the user anymore. 
 
-*No improvements.*
+*Recommendations: Delete one of the search bars. Have an arrow pointing the original search bar again instead.*
 
 
 #### 6: Recognition Rather than Recall
 
-The menu bar doesn’t indicate which page the user is currently reading so the user may get confused when scrolling down the page as to what part of the site they are on. **(1)**
+**(1)** Similar to the COD website, they list out all the states and counties available so it’s easier to recognize the location without having to worry whether it’s spelled correctly or not. I like that the actionable items on the page are usually highlighted in orange or surrounding an orange text box. 
 
-*Recommendation: Have the menu bar indicate which page of the site the user is accessing at that moment.*
+*Recommendation: Improvements were already mentioned above in the heruistics. *
 
 
 #### 7: Flexibility and Efficiency of Use
 
-There is a “Jump Straight to Farmers Market” option for those looking for easy access to the map view of location sites. However, in order to use this function one would have to have sufficient knowledge of what it is they are searching for (i.e. a “farmers’ market” as opposed to a “drop off site” or other term). Additionally, there is no search bar apparent on the site. Users have to manually navigate. **(2)**
-
+2 There is not much flexibility in this website as well. For the search button it should be interchangeable with finding a food bank and inverting the search for food bank to see if there are any overlapping organizations within the states. 
 ![screen shot of location map]
 
 *Recommendation: Add a search bar to help users navigate the site more quickly.*
